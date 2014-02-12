@@ -1,0 +1,10 @@
+{
+  "name": "airtunes_hub",
+  "description": "",
+  "keywords": ["airtunes", "airplay", "raop"],
+  "version": "0.1.6",
+  "author": "Magnus Johansson <kkckkc@gmail.com>",
+  "dependencies": {
+    "airtunes": "0.1.6"
+  }
+}
